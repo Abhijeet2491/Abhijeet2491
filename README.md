@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Abhijeet
-- 👀 I’m interested in learning techmologies 
+- 👀 I’m interested in learning technologies 
 - 🌱 I’m currently practicing Data Analysis worked on projects using Power Bi , SQL and Python
-- 💞️ I’m looking to collaborate on any projects 
 - 📫 How to reach me --- Cobtact me on - chakraborty.abhijeet91@gmail.com
 
 <!---
